@@ -1,0 +1,33 @@
+﻿Items,Comments
+Residence,"1 = Tokyo, 2 = Kanagawa, 3 = Saitama, 4 = Chiba, 5 = Osaka, 6 = Hyogo, 7 = Fukuoka"
+Sex,"1 = male, 2 = female"
+Age,Age in responding the questionnaire
+Age_Group,"1 = ≥65 yrs., 2 = 40-64 yrs., 3 = 20-39 yrs., 4 = 18-19 yrs."
+Job_Group,"1 = employed, 2 = home maker, 3 = student, 4 = unemployed, 5 = others"
+Health_Worker_Self,"""Are you a healthcare worker?"" 1 = yes, 2 = no"
+Health_Worker_Family,"""Is your family member a healthcare worker?"" 1 = yes, 2 = no"
+Married,"1 = single, 2 = married"
+Income,"Annual household income (JPY), 1 = < 2 million, 2 = 2-4 million, 3 = 4-6 million, 4 = 6-8 million, 5 = 8-10 million, 6 = 10-12 million, 7 = 12-15 million, 8 = 15-20 million, 9 = ≥20 million, 10 = unknown"
+Current_Physical,"Current treatment for severe physical illness, 1 = yes, 2 =no"
+Past_Physical,"Past treatment for severe physical illness, 1 = yes, 2 =no"
+Current_Mental,"Current treatment for mental problem, 1 = yes, 2 =no"
+Past_Mental,"Past treatment for mental problem, 1 = yes, 2 =no"
+K6,Total score of the Kessler Psychological Distress Scale-6
+PHQ9,Total score of the Patient Health Questionnaire-9
+UCLA_LS3,Total score of the UCLA loneliness scale version 3
+LSNS6,Total score of the abbreviated Lubben Social Network Scale
+Exercise,"""I exercised for my health (whether indoors or outdoors)."" 1 = not at all, 7 = extremely"
+Healthy_Diet,"""I took meals considering the nutrition balance. "" 1 = not at all, 7 = extremely"
+Healthy_Sleep,"""I kept regular awakening time and bedtime approximately. "" 1 = not at all, 7 = extremely"
+Activity,"""I engaged in activities such as hobbies with absorbing interest. "" 1 = not at all, 7 = extremely"
+Interaction_Offline,"""I interacted with my family or friends on a face-to-face basis (except work or class)."" 1 = not at all, 7 = extremely"
+Interaction_Online,"""I interacted with my family or friends online using chat or video calling (except work or class)."" 1 = not at all, 7 = extremely"
+Preventive_Behaviors,"""I spontaneously refrained from going out or altruistically took preventive behaviors (e.g. wearing a mask) to prevent coronavirus disease 2019 infection to my family or other people."" 1 = not at all, 7 = extremely"
+Optimism,"""I thought about the future positively. "" 1 = not at all, 7 = extremely"
+Deterioration_Economy,"""The family budget has tightened."" 1 = not at all, 7 = extremely"
+Deterioration_Interact,"""A personal relationship with a close person such as family or friends got worse."" 1 = not at all, 7 = extremely"
+Frustration,"""I have become easily annoyed or irate due to life-change."" 1 = not at all, 7 = extremely"
+Covid_Anxiety,"""I felt nervous or anxious when I watched news about coronavirus disease 2019."" 1 = not at all, 7 = extremely"
+Covid_Sleepless,"""I could not sleep because I worried about getting coronavirus disease 2019."" 1 = not at all, 7 = extremely"
+Difficulty_Living,"""My daily life was interrupted due to the shortage of materials relating to prevention for coronavirus disease 2019 infection (e.g. mask or thermometer) or other daily supplies."" 1 = not at all, 7 = extremely"
+Difficulty_Work,"""My work or schoolwork was interrupted due to life-change. "" 1 = not at all, 7 = extremely"
